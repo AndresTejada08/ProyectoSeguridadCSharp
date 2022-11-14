@@ -1,0 +1,13 @@
+C:\Users\linda\source\repos\ProyectoSeguridadAplicaciones\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\linda\source\repos\ProyectoSeguridadAplicaciones\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\linda\source\repos\ProyectoSeguridadAplicaciones\CapaNegocios\bin\Debug\CapaNegocios.dll.config
+C:\Users\linda\source\repos\ProyectoSeguridadAplicaciones\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\linda\source\repos\ProyectoSeguridadAplicaciones\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\linda\source\repos\ProyectoSeguridadAplicaciones\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\linda\source\repos\ProyectoSeguridadAplicaciones\CapaNegocios\bin\Debug\CapaEntidades.dll
+C:\Users\linda\source\repos\ProyectoSeguridadAplicaciones\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\linda\source\repos\ProyectoSeguridadAplicaciones\CapaNegocios\bin\Debug\CapaDatos.dll.config
+C:\Users\linda\source\repos\ProyectoSeguridadAplicaciones\CapaNegocios\bin\Debug\CapaEntidades.pdb
+C:\Users\linda\source\repos\ProyectoSeguridadAplicaciones\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+C:\Users\linda\source\repos\ProyectoSeguridadAplicaciones\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\linda\source\repos\ProyectoSeguridadAplicaciones\CapaNegocios\obj\Debug\CapaNegocios.pdb
