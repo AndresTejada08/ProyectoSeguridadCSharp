@@ -1,0 +1,12 @@
+C:\Users\linda\source\repos\ProyectoSeguridadAplicaciones\ClienteWindows\bin\Debug\ClienteWindows.exe.config
+C:\Users\linda\source\repos\ProyectoSeguridadAplicaciones\ClienteWindows\bin\Debug\ClienteWindows.exe
+C:\Users\linda\source\repos\ProyectoSeguridadAplicaciones\ClienteWindows\bin\Debug\ClienteWindows.pdb
+C:\Users\linda\source\repos\ProyectoSeguridadAplicaciones\ClienteWindows\obj\Debug\ClienteWindows.csproj.AssemblyReference.cache
+C:\Users\linda\source\repos\ProyectoSeguridadAplicaciones\ClienteWindows\obj\Debug\ClienteWindows.FormLogin.resources
+C:\Users\linda\source\repos\ProyectoSeguridadAplicaciones\ClienteWindows\obj\Debug\ClienteWindows.Properties.Resources.resources
+C:\Users\linda\source\repos\ProyectoSeguridadAplicaciones\ClienteWindows\obj\Debug\ClienteWindows.csproj.GenerateResource.cache
+C:\Users\linda\source\repos\ProyectoSeguridadAplicaciones\ClienteWindows\obj\Debug\ClienteWindows.csproj.CoreCompileInputs.cache
+C:\Users\linda\source\repos\ProyectoSeguridadAplicaciones\ClienteWindows\obj\Debug\ClienteWindows.exe
+C:\Users\linda\source\repos\ProyectoSeguridadAplicaciones\ClienteWindows\obj\Debug\ClienteWindows.pdb
+C:\Users\linda\source\repos\ProyectoSeguridadAplicaciones\ClienteWindows\obj\Debug\ClienteWindows.FormPrincipal.resources
+C:\Users\linda\source\repos\ProyectoSeguridadAplicaciones\ClienteWindows\obj\Debug\ClienteWindows.FormUsuario.resources
